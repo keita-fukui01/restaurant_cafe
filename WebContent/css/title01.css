@@ -1,0 +1,50 @@
+body {
+  background: url(../images/cafe05.jpg);
+  background-size:cover;
+
+}
+
+.title{
+   margin: 0 auto;
+   text-align: center;
+    width: 70px;
+    border:transparent 1px solid;
+    margin:0 auto;
+}
+.title001{
+  display     : inline-block;
+  font-size   : 250%;
+  font-weight : bold;
+  color       : #0000ff;
+  text-shadow:  5px  5px 20px #ffffff,
+               -5px  5px 20px #ffffff,
+                5px -5px 20px #ffffff,
+               -5px -5px 20px #ffffff;
+}
+
+.title002{
+  background: #f6f6f6;
+  font-size : 110%;
+  text-align:center;
+  margin:0 auto;
+  padding : 20px ;
+  width: 40%;
+  border:solid 1px #000000;
+
+}
+
+.title002 a{
+	color:#000000;
+}
+
+.title003{
+  background: url(../images/cafe18.jpg);
+  background-size:cover;
+  width:1100px;
+  height:600px;
+  padding: 60px;
+  border:solid 1px #000000;
+  margin-left: auto;
+  margin-right: auto;
+
+}

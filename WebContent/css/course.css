@@ -1,0 +1,74 @@
+
+body {
+  background: url(../images/rogo09.jpg);
+  background-size:cover;
+}
+
+/* clearfix */
+.clearfix:after{
+	content:" ";
+	display:block;
+	clear:both:
+}
+
+
+#waku{
+	margin:0 auto;
+	margin-bottom: 30px;
+	width:1300px;
+    height:1450px;
+    background: #fdff9d;
+    border:solid 1px #000000;
+}
+
+#box_course{
+	width:900px;
+	margin:0 auto;
+	}
+
+
+.course{
+	font-size:100%;
+	width:400px;
+	height:1400px;
+	float:left;
+  	border-left:solid 1px #000000;
+}
+
+#special_course{
+	font-size:100%;
+	width:400px;
+	height:1400px;
+	float:left;
+	margin:0 auto;
+
+}
+
+#lunch_course{
+	font-size:100%;
+	width:400px;
+	height:1400px;
+	float:left;
+	margin:0 100px;
+}
+
+.first{
+	border-left:none;
+}
+
+hr{
+	border-color: #000000;
+	border-width: 0.9px;
+}
+
+#btn_back{
+	margin:30px 650px;
+	padding: 1px 0px 0px 0px;
+	font-size:150%;
+	text-align:center;
+	width:80px;
+	height:35px;
+	background: white;
+	border:solid 1px #000000;
+}
+

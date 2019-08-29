@@ -1,0 +1,90 @@
+#title{
+	margin:0 auto;
+	width: 130px;
+	height:45px;
+}
+
+#all_title{
+	margin:0 0;
+	width: 1280px;
+	height:350px;
+	float:left;
+	/*display:inline;*/
+}
+
+#search{
+	text-align: center;
+	margin:0 0;
+	width: 250px;
+	height:30px;
+	float:left;
+	/*display:inline;*/
+}
+
+table {
+    float: left;
+    margin-right: 30px;
+    border-collapse:collapse;
+}
+
+
+th {
+    background-color: #CCC;
+    border: solid 1px #999;
+}
+
+td {
+    padding-left: 10px;
+    padding-right: 10px;
+    border: solid 1px #CCC;
+}
+
+.off {
+    color: #CCC;
+}
+#id {
+    width: 80px;
+}
+
+#name {
+    width: 160px;
+}
+
+#price {
+    width: 110px;
+}
+
+#error {
+    width: 300px;
+}
+
+#turnOver td {
+    border: none;
+}
+
+#next {
+    float: right;
+}
+
+u{
+	font-weight: bold;
+    color: #336;
+    width:50px;
+    height:25px;
+    margin:0 auto;
+}
+
+#yoyau_waku{
+	margin: 0 0;
+	width:100px;
+    height:40px;
+}
+
+#btn_back{
+	margin: 0 0;
+	text-align:center;
+	width:95px;
+	height:25px;
+	background: #e5e5e5;
+	border: solid 1px #808080;
+}

@@ -1,0 +1,78 @@
+#title{
+	font-size:110%;
+	margin:0 auto;
+	width:75px;
+	height:50px;
+}
+
+table {
+    float: left;
+    margin-right: 30px;
+    border-collapse:collapse;
+}
+
+caption {
+	margin:0 auto;
+	font-size:90%;
+    font-weight: bold;
+    color: #336;
+    text-decoration: underline;
+    width:400px;
+}
+
+#waku{
+	font-size:120%;
+	margin:20px 450px;
+	width:500px;
+    background: #ffffff;
+    height:274px;
+}
+
+td {
+	font-size:80%;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: solid 1px #c9c9c9;
+}
+
+th {
+	padding-left: 10px;
+    padding-right: 10px;
+    border: solid 1px #c9c9c9;
+    background: #eeeeee;
+}
+
+#btn_submit_btn_back{
+	margin: 50px 3px;
+	width:65px;
+	height:30px;
+}
+
+#btn_submit{
+	margin: 0 400px;
+	font-size:100%;
+	text-align:center;
+	width:55px;
+	height:30px;
+}
+
+#btn_back{
+	margin: 0 400px;
+	font-size:100%;
+	text-align:center;
+	width:55px;
+	height:27px;
+	background: #e5e5e5;
+	border: solid 1px #c9c9c9;
+}
+
+dl{
+	margin: 10px 1px;
+	width:100px;
+	height:35px;
+}
+
+dd{
+	margin: 0 auto;
+	width: 10px;
+}

@@ -1,0 +1,48 @@
+#title{
+   margin: 0 630px;
+   width: 450px;
+   height:70px;
+   font-size: 110%;
+  }
+
+#title_caption {
+    font-weight: bold;
+    color: #336;
+    text-decoration: underline;
+    font-size: 120%;
+    width:300px;
+    height:30px;
+    margin: 0 auto;
+}
+
+#waku{
+	margin:0 auto;
+	width:450px;
+	font-size: 110%;
+}
+
+table {
+    width:450px;
+	font-size: 110%;
+    float: left;
+    border-collapse:collapse;
+}
+
+th {
+    background-color: #CCC;
+    border: solid 1px #999;
+}
+
+td {
+    padding-left: 10px;
+    padding-right: 10px;
+    border: solid 1px #CCC;
+}
+
+#title_waku{
+	margin:0 auto;
+	width:450px;
+	text-align: center;
+}
+
+

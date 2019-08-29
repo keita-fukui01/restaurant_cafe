@@ -1,0 +1,66 @@
+body {
+  background: url(../images/rogo09.jpg);
+  background-size:cover;
+}
+
+/* clearfix */
+.clearfix:after{
+	content:" ";
+	display:block;
+	 clear:both:
+	}
+
+#waku{
+	margin:0 auto;
+	padding: 0px 0px 130px 0px;
+	width:1300px;
+	height:600px;
+    background: #fdff9d;
+    border:solid 1px #000000;
+}
+
+.drink01{
+	margin:0 530px;
+	width:200px;
+	height:80px;
+	float:left;
+}
+
+
+#waku dl{
+	width:1261px;
+	height:700px;
+}
+
+.drink{
+  font-size:100%;
+  width:273px;
+  height:500px;
+  float:left;
+  padding: 20px 20px 20px 20px;
+  border-left:solid 1px #000000;
+  margin-top:0;
+}
+
+.first{
+	border-left:none;
+}
+
+.drink_area01{
+	width:270px;
+	height:250px;
+	float:left;
+}
+
+#btn_back{
+	font-size:150%;
+	text-align:center;
+	margin:0 650px;
+	padding: 1px 0px 0px 0px;
+	margin-bottom: 100px;
+	width:80px;
+	height:35px;
+	float:left;
+	background: white;
+	border:solid 1px #000000;
+}

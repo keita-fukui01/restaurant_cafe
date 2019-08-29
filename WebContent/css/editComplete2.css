@@ -1,0 +1,63 @@
+#title{
+	font-size:110%;
+	margin:0 660px;
+	width:75px;
+	height:50px;
+}
+
+table {
+    float: left;
+    margin-right: 30px;
+    border-collapse:collapse;
+}
+
+caption {
+	margin:0 auto;
+	font-size:90%;
+    font-weight: bold;
+    color: #336;
+    text-decoration: underline;
+    width:400px;
+}
+
+#waku{
+	font-size:120%;
+	margin:20px 500px;
+	width:500px;
+    background: #ffffff;
+    height:274px;
+}
+
+td {
+	font-size:80%;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: solid 1px #c9c9c9;
+}
+
+th {
+	padding-left: 10px;
+    padding-right: 10px;
+    border: solid 1px #c9c9c9;
+    background: #eeeeee;
+}
+
+#btn_back{
+	margin: 20px 455px;
+	text-align:center;
+	width:70px;
+	height:25px;
+	background: #e5e5e5;
+	border: solid 1px #afafaf;
+}
+
+dl{
+	margin: 10px 1px;
+	width:100px;
+	height:35px;
+}
+
+dd{
+	margin: 0 auto;
+	width: 10px;
+}

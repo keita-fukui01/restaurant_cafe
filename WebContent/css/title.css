@@ -1,0 +1,4 @@
+<tr>
+<th id="year_month">“ú•t</th>
+<td><% out.println (item.getYear() + "”N" + item.getMonth() + "ŒŽ" +  item.getDay() + "“ú"); %></td>
+</tr>

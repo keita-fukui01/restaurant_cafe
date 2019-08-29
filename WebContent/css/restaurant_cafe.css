@@ -1,0 +1,137 @@
+body {
+	/*background : url(../images/rogo03.png);*/
+	background: #ffffb9;
+	background-size:cover;
+}
+
+h1 {
+  position: relative;
+  padding: 0.25em 0;
+}
+
+h1:after {
+  content: "";
+  display: block;
+  height: 4px;
+  background: -webkit-linear-gradient(to right, rgb(255, 186, 115), #ffb2b2);
+  background: linear-gradient(to right, rgb(255, 186, 115), #ffb2b2);
+}
+
+.title{
+	width: 700px;
+	height:170px;
+	background: #ffffb9;
+	font-size : 85%;
+	margin:0 auto;
+	text-align: center;
+	float: left;
+}
+.title001{
+
+  display     : inline-block;
+  font-size   : 250%;
+  color       : #000000;
+  text-shadow:  5px  5px 20px #ffffff,
+               -5px  5px 20px #ffffff,
+                5px -5px 20px #ffffff,
+               -5px -5px 20px #ffffff;
+}
+
+#title_waku01{
+	margin:0 330px;
+	width: 1010px;
+	height:170px;
+
+}
+
+#waku01 {
+	margin: 30px 0 -20px 65px;
+	width: 220px;
+	height:240px;
+	float: left;
+	background: #ffffff;
+	font-size : 75%;
+	box-shadow:0px 0px 5px;
+}
+
+.title002{
+	margin: 55px -45px;
+	width: 750px;
+	height:50px;
+	background: #ffffb9;
+	font-size : 120%;
+	text-align: center;
+}
+
+.title002 a{
+	color:#000080;
+	text-decoration:none;
+}
+
+.title002 a:hover{
+	text-decoration:underline;
+}
+
+
+.title002 ul{
+    margin:auto;
+    text-align:center;
+}
+
+
+.title002 ul li{
+	display:inline-block;
+	list-style-type:none;
+    width: 170px;
+    margin:0 auto;
+    text-align:center;
+}
+
+
+#title003{
+  background: url(../images/cafe19.jpg);
+  background-size:cover;
+  width:1300px;
+  height:600px;
+  box-shadow:0px 0px 10px;
+  margin:250px 0 100px -315px;
+ }
+
+#waku{
+	margin-bottom: 70px;
+}
+
+#map_waku01{
+	margin: 50px auto;
+	width: 1300px;
+	height:480px;
+    box-shadow:0px 0px 15px;
+	background: #ffffb9;
+}
+
+#map{
+	margin: 50px 100px;
+	width: 600px;
+	height:368px;
+	/*box-shadow:0px 0px 15px;*/
+	float: left;
+	background: white;
+}
+
+.ggmap {
+	position: relative;
+	padding-bottom: 56.25%;
+	padding-top: 30px;
+	height: 0;
+	overflow: hidden;
+}
+
+.ggmap iframe,
+.ggmap object,
+.ggmap embed {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}

@@ -1,0 +1,75 @@
+#title{
+   margin: 0 auto;
+   width: 450px;
+   height:70px;
+   font-size: 140%;
+   text-align:center;
+}
+
+#waku{
+	margin:0 auto;
+	width:450px;
+	height:300px;
+	font-size: 110%;
+}
+
+table {
+	width:450px;
+	height:250px;
+	font-size: 110%;
+    float: left;
+    margin-right: 50px;
+    border-collapse:collapse;
+}
+
+caption {
+    margin:0 auto;
+	font-size:90%;
+    font-weight: bold;
+    color: #336;
+    text-decoration: underline;
+    width:400px;
+}
+
+th {
+    background-color: #e0e0e0;
+    border: solid 1px #808080;
+}
+
+td {
+    padding-left: 10px;
+    padding-right: 10px;
+    border: solid 1px #CCC;
+}
+
+#btn_submit{
+	margin: 0 400px;
+	font-size:110%;
+	text-align:center;
+	width:130px;
+	height:25px;
+	background: #e5e5e5;
+	border: solid 1px #808080;
+}
+
+#btn_back{
+	margin: 0 400px;
+	font-size:110%;
+	text-align:center;
+	width:130px;
+	height:25px;
+	background: #e5e5e5;
+	border: solid 1px #808080;
+}
+
+#title_waku{
+	margin: 0 1px;
+	width:250px;
+	height:80px;
+}
+
+dl{
+	margin: 10px 10px;
+	width:100px;
+	height:35px;
+}
